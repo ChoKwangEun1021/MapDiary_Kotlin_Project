@@ -2,7 +2,7 @@
 
 ● Team member
 ---------------------------
-![member](https://github.com/KimHuiseon230/HTML202305/assets/126849356/52e75949-e59d-4878-8a55-292f859245c6)
+![member](https://github.com/ChoKwangEun1021/kotlin_mapTest/assets/126849379/16b2f70d-834f-4bd5-b98b-a177f867ca0d)
 
 ● Summary
 ---------------------------
